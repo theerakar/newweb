@@ -1,0 +1,16 @@
+{
+  "name": "The Ocean Wave",
+  "short_name": "Ocean Wave",
+  "description": "A hotel website created using HTML & CSS",
+  "start_url": "http://127.0.0.1:5500/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/images/fav.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
